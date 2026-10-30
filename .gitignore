@@ -1,0 +1,15 @@
+# File del sistema e recupero editor
+.DS_Store
+._*
+*.stswp
+*.swp
+*~
+
+# Output temporanei delle esecuzioni Stata
+*.log
+*.smcl
+*.sttmp
+
+# Eventuali dati intermedi rigenerati
+/data/intermediate/
+/tmp/
