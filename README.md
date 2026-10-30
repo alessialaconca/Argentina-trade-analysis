@@ -82,5 +82,3 @@ Il lavoro è **descrittivo**: documenta andamenti e differenze nella struttura d
 ## Materiali e limiti
 
 Sono disponibili il [report originale](report/_LaConca.pdf), il [codice Stata](code/dofile_LaConca.do) e i [dati con la loro descrizione](data/README.md). I grafici sono consultabili nella relazione.
-
-I principali risultati commerciali numerici di questo README sono stati ricontrollati sui CSV conservati; i valori di apertura provengono dal dataset elaborato con il PIL. Lo script originale richiede ancora correzioni per consentire un’esecuzione completa. 
